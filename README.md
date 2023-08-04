@@ -2,14 +2,13 @@
 
 Este projeto consiste no treinamento de uma Rede Neural Convolucional (CNN) para a classificação de imagens do conjunto de dados Kuzushiji-MNIST. O Kuzushiji-MNIST é um conjunto de dados de dígitos escritos à mão no estilo Kuzushiji, que é uma forma de caligrafia japonesa antiga. O objetivo é desenvolver um modelo de aprendizado de máquina capaz de reconhecer os dígitos escritos em Kuzushiji.
 
-## Requisitos
+## Explicação do Modelo de Treinamento
 
-- Python 3.x
-- TensorFlow 2.x
-- Keras
-- NumPy
-- Pandas
-- Matplotlib
+<img src="imagens/img-readme-01.png" width="70%">
+
+**Imagens utilizadas no modelo de treinamento**
+
+- O modelo trata do treinamento de um antigo estilo de escrita japonês
 
 ## Configuração do Projeto
 
